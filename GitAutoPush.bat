@@ -2,6 +2,7 @@
 	
 	:: Navigate to the directory you wish to push to GitHub
 	::Change <path> as needed. Eg. D:\Dokumente\UMLRepo\UMLRepo
+	cd D:\UMLGit\UMLRepo\UMLRepo
 	
 	::Initialize GitHub
 	git init
